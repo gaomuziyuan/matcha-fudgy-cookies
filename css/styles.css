@@ -14,8 +14,8 @@ line-height: 1;
 background-color: #fff;
 font-family: Verdana, Arial, Helvetica, sans-serif;
 color: #4b4d4b;
-font-size: 16px;
-line-height: 18px;
+font-size: 20px;
+line-height: 22px;
 }
 	
 /* layout */
@@ -120,7 +120,7 @@ padding-left: 5px;
 /* nav */
 
 nav .menu {
-font-size: 16px;
+font-size: 18px;
 font-weight: bold;
 }
 
@@ -185,7 +185,7 @@ color: #d0b609;
 header h2 {
 padding-top: 20px;
 font-style: italic;
-font-size: 16px;
+font-size: 18px;
 color: #67d009;
 }
 
@@ -268,7 +268,7 @@ margin: 45px 0;
 }
 
 .asidebox ul li {
-	padding: 5px 0;
+	padding: 15px 0;
 }
 
 aside h3 {
@@ -287,10 +287,14 @@ margin-top: -15px;
 padding-left: 10px;
 }
 
+aside ul li {
+	padding: 5px;
+}
+
 #footer-area {
 background: #eee;
 color: #FFF;
-font-size: 90%;
+/*font-size: 90%;*/
 padding: 18px 0;
 overflow: hidden;
 }
@@ -304,7 +308,7 @@ width: 190px;
 
 footer aside h4 {
 color: #1bba0b;
-font-size: 16px;
+font-size: 18px;
 line-height: 1.5em;
 text-shadow: 0px 2px 3px #ddd;
 }
